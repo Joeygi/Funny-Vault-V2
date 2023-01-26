@@ -1,0 +1,35 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/private_arsenals/hk416mod3/MI_WP_ETC_ANPEQ-15"
+	"$bumpmap" "models/weapons/private_arsenals/hk416mod3/MI_WP_ETC_ANPEQ-15_n"
+	"$phongexponenttexture" "models/weapons/private_arsenals/hk416mod3/MI_WP_ETC_ANPEQ-15_s"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .02 .02 .02]"
+	"$envmapconstrast" "1"
+	"$halflambert""1"
+	$color2 "[.68 .65 .59]"
+	"$phong" "1"
+	"$phongfresnelranges" "[.8 .8 .8]"
+	"$phongexponent" "90"
+	"$phongboost" "60"
+	"$phongalbedotint" 	"1"
+	"$phongalbedoboost" "25"
+
+	"$rimlight" "0"
+	"$rimlightexponent" 	"50"	
+	"$rimlightboost"	"3"
+	"$rimmask" "1"
+
+//WH
+	//AT 
+    //WIL
+//L Y
+
+
+
+//OU DO F 
+
+//R PERFECTION?
+}
+

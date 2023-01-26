@@ -1,0 +1,35 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/private_arsenals/hk416mod3/magnifier"
+	"$bumpmap" "models/weapons/private_arsenals/hk416mod3/416_optics_n"
+	"$phongexponenttexture" "models/weapons/private_arsenals/hk416mod3/416_optics_s"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .03 .03 .03]"
+	"$envmapconstrast" "1"
+	"$halflambert""1"
+
+	"$phong" "1"
+	"$phongfresnelranges" "[1.5 1.5 1.5]"
+	"$phongexponent" "120"
+	"$phongboost" "95"
+	"$phongalbedotint" 	"1"
+	"$phongalbedoboost" "25"
+
+	$color2 "[.5 .5 .5]"
+
+	"$rimlight" "0"
+	"$rimlightexponent" 	"50"	
+	"$rimlightboost"	"45"
+	"$rimmask" "1"
+}
+
+
+
+
+
+
+
+
+
+

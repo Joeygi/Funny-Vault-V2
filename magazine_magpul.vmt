@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/private_arsenals/hk416mod3/magazine_magpul_EX"
+	"$bumpmap" "models/weapons/private_arsenals/hk416mod3/magazine_magpul_n"
+	"$phongexponenttexture" "models/weapons/private_arsenals/hk416mod3/magazine_magpul_s"
+
+
+	$color2 "[2 1.8 1.5]"
+
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .035 .035 .035]"
+	"$envmapconstrast" "1"
+	"$halflambert""1"
+
+	"$phong" "1"
+	"$phongfresnelranges" "[6 6 6]"
+	"$phongexponent" "35"
+	"$phongboost" "35"
+	"$phongalbedotint" 	"1"
+	"$phongalbedoboost" "25"
+
+	"$rimlight" "0"
+	"$rimlightexponent" 	"50"	
+	"$rimlightboost"	"15"
+	"$rimmask" "1"
+}
+

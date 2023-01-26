@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/private_arsenals/hk416mod3/holo_lens"
+	$translucent 1
+	$color2 "[1 1 .6]"
+	$nocull 1
+}
