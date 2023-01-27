@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "models/weapons/private_arsenals/hk416mod3/reticle"
-	$selfillum 1
-	$translucent 1
-}
